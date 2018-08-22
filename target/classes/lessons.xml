@@ -1,0 +1,6 @@
+<listClass>
+   <list class="java.util.ArrayList">
+      <object class="classes.Lessons" id="7" Subject="qwerty1" SkypeLessons="true" Duration_of_lesson="21" Count_of_lessons="21" Price_of_lesson="1"/>
+      <object class="classes.Lessons" id="1" Subject="qwerty1" SkypeLessons="true" Duration_of_lesson="21" Count_of_lessons="21" Price_of_lesson="1"/>
+   </list>
+</listClass>

@@ -1,0 +1,8 @@
+<listClass>
+   <list class="java.util.ArrayList">
+      <object class="classes.Teacher" teacher_name="dsf" id="1" teacher_number="234" teacher_age="23"/>
+      <object class="classes.Teacher" teacher_name="sdfsdf" id="2" teacher_number="234" teacher_age="21"/>
+      <object class="classes.Teacher" teacher_name="asds" id="3" teacher_number="23424" teacher_age="23"/>
+      <object class="classes.Teacher" teacher_name="A" id="4" teacher_number="23424" teacher_age="21"/>
+   </list>
+</listClass>

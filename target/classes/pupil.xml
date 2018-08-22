@@ -1,0 +1,5 @@
+<listClass>
+   <list class="java.util.ArrayList">
+      <object class="classes.Pupil" pupil_name="esfre" id="1" pupil_number="12343" pupil_age="15"/>
+   </list>
+</listClass>

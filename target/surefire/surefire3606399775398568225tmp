@@ -1,0 +1,12 @@
+#surefire
+#Mon Mar 05 09:31:36 MSK 2018
+jpda.address=18090
+maven.ext.class.path=B\:\\Programs\\NetBeans 8.2\\java\\maven-nblib\\netbeans-eventspy.jar
+file.encoding=UTF-8
+jpda.listen=true
+forkMode=once
+user.dir=B\:\\Programs\\NetBeansProject\\Tutor
+localRepository=C\:\\Users\\BORYAN\\.m2\\repository
+test=ru.sfedu.tutor.HibernateDataProviderTest
+basedir=B\:\\Programs\\NetBeansProject\\Tutor
+maven.surefire.debug=-Xdebug -Xrunjdwp\:transport\=dt_socket,server\=n,address\=18090

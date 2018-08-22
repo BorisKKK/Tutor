@@ -1,0 +1,5 @@
+<listClass>
+   <list class="java.util.ArrayList">
+      <object class="classes.Contract" id="2" Teacher="1" Lessons="1" Completion="false" Pupil="1"/>
+   </list>
+</listClass>
